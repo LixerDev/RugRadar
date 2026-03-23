@@ -3,6 +3,7 @@
 An AI-powered rug pull detector for Solana tokens. Before you ape in, let RugRadar scan the token and give you a **Trust Score** based on real on-chain data.
 
 **Built by LixerDev**
+Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.11+-green)
